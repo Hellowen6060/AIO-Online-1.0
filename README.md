@@ -38,12 +38,11 @@ Esta herramienta está pensada para técnicos y usuarios que desean configurar u
 *   Apartado de mis redes sociales por si deseas seguirme!! :)
 <img width="865" height="139" alt="08_Redes" src="https://github.com/user-attachments/assets/34f150ce-ac09-435d-9339-b5c9db3abacb" />
 
-
 ---
 
 ## 📥 Instalación
 
-1.  Ve a la sección de **[Releases](https://github.com/TuUsuario/TuRepositorio/releases)** del repositorio.
+1.  Ve a la sección de **[Releases](https://github.com/Hellowen6060/AIO-Online-1.0/releases)** del repositorio.
 2.  Descarga el archivo `.exe` (instalador NSIS).
 3.  Ejecuta el instalador y sigue los pasos.
     *   *Nota:* Es posible que **Windows Defender** muestre una advertencia (falso positivo común en apps de Electron). Si confías en la fuente, permite la ejecución.
